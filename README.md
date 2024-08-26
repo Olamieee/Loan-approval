@@ -22,4 +22,4 @@ streamlit run webApp.py
 ## Features
 - Data preprocessing.
 - Machine learning model training.
-- Interactive web interface for churn prediction.
+- Interactive web interface for loan approval prediction.
