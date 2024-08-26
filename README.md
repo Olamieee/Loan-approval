@@ -16,7 +16,7 @@ This project predicts whether a an loan applicant can be qualified for a loan or
 ## Usage
 To run the project, use the following command:
 ```bash
-streamlit run web_app.py
+streamlit run webApp.py
 ```
 
 ## Features
